@@ -1,4 +1,4 @@
-# Dickey-Fuller GLS unit-root test for MATLAB
+# Dickey-Fuller GLS test for MATLAB
 
 The MATLAB DFGLS function implements unit-root testing using the DF-GLS test of Elliott, Rothenberg & Stock (1996), allowing for 3 methods for choosing the optimal lag-length in the underlying Augmented Dickey-Fuller (ADF) regression. The methods for selecting the optimal number of lags are: 
 * SIC, 
